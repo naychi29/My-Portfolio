@@ -1,0 +1,79 @@
+Background Color - #070500
+secondary bg color - #130300
+Primary Color - #FFC300
+Text Color - #FBF4F2
+
+Font -family 	-	Inter
+			-	Clicker Script
+
+
+Header
+	-	hero				-	False
+	-	about				-	True
+	-	What I Do		-	False
+	-	Work				-	True
+	-	edu					-	False
+	-	exp					-	True
+	-	testimonial	-	False
+	-	blog				-	True
+	-	contact			-	True
+
+
+Sub Title		-	
+Main Title	-	I am Web Developer
+			-	I am Web Designer
+			-	I am UI / UX Developer
+	
+Description	-	
+
+Skill		-	HTML 100%
+			-	CSS 50%
+			-	JavaScript 30%
+
+Project		-	
+email		-	
+ph			-	
+
+
+Education		-	
+
+Work Experience
+			-	
+
+Testimonials	-
+Blog Content	-
+
+
+Who I Am
+- 
+Name : 
+email : 
+age : 
+Form : 
+
+
+What I Do
+- Graphic Design			-	
+
+
+-	UI / UX Design 
+
+
+- Backend Develop
+
+
+-	Database Engineer
+
+
+- API Architecture
+
+
+- Mobile Developing
+
+- My Skill
+HTML
+CSS
+JavaScript
+jQuery
+Bootstrap
+
